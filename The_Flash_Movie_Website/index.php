@@ -118,7 +118,7 @@
                                 <div class="card-body text-white bg-transparent">
                                     <h4 class="card-title flash-fs-11">Grant Gustin</h4>
                                     <p class="card-text flash-fs-08">as Barry Allen / The Flash</p>
-                                    <a href="#" class="card-link flash-bg-red flash-fw-100 btn btn-dark rounded">Read more!</a>
+                                    <a href="http://www.imdb.com/character/ch0028488/?ref_=tt_cl_t1" target="_blank" class="card-link flash-bg-red flash-fw-100 btn btn-dark rounded">Read more!</a>
                                 </div>
                             </div>
                         </div>
@@ -128,7 +128,7 @@
                                 <div class="card-body text-white bg-transparent">
                                     <h4 class="card-title flash-fs-11">Candice Patton</h4>
                                     <p class="card-text flash-fs-08">as Iris West</p>
-                                    <a href="#" class="card-link flash-bg-red flash-fw-100 btn btn-dark rounded">Read more!</a>
+                                    <a href="http://www.imdb.com/character/ch0057789/?ref_=tt_cl_t2" target="_blank" class="card-link flash-bg-red flash-fw-100 btn btn-dark rounded">Read more!</a>
                                 </div>
                             </div>
                         </div>
@@ -138,7 +138,7 @@
                                 <div class="card-body text-white bg-transparent">
                                     <h4 class="card-title flash-fs-11">Carlos Valdes</h4>
                                     <p class="card-text flash-fs-08">as Cisco Ramon / Vibe</p>
-                                    <a href="#" class="card-link flash-bg-red flash-fw-100 btn btn-dark rounded">Read more!</a>
+                                    <a href="http://www.imdb.com/character/ch0419633/?ref_=tt_cl_t4" target="_blank" class="card-link flash-bg-red flash-fw-100 btn btn-dark rounded">Read more!</a>
                                 </div>
                             </div>
                         </div>
@@ -148,7 +148,7 @@
                                 <div class="card-body text-white bg-transparent">
                                     <h4 class="card-title flash-fs-11">Danielle Panabaker</h4>
                                     <p class="card-text flash-fs-08">as Caitlin Snow</p>
-                                    <a href="#" class="card-link flash-bg-red flash-fw-100 btn btn-dark rounded">Read more!</a>
+                                    <a href="http://www.imdb.com/character/ch0412598/?ref_=tt_cl_t3" target="_blank" class="card-link flash-bg-red flash-fw-100 btn btn-dark rounded">Read more!</a>
                                 </div>
                             </div>
                         </div>
@@ -157,8 +157,8 @@
                                 <img class="card-img-top" src="img/jesse-l-martin.png" alt="Jesse L. Martin Portrait">
                                 <div class="card-body text-white bg-transparent">
                                     <h4 class="card-title flash-fs-11">Jesse L. Martin</h4>
-                                    <p class="card-text flash-fs-08">as Det. Joe West</p>
-                                    <a href="#" class="card-link flash-bg-red flash-fw-100 btn btn-dark rounded">Read more!</a>
+                                    <p class="card-text flash-fs-08">as Joe West</p>
+                                    <a href="http://www.imdb.com/character/ch0477674/?ref_=tt_cl_t6" target="_blank" class="card-link flash-bg-red flash-fw-100 btn btn-dark rounded">Read more!</a>
                                 </div>
                             </div>
                         </div>
@@ -168,7 +168,7 @@
                                 <div class="card-body text-white bg-transparent">
                                     <h4 class="card-title flash-fs-11">Tom Cavanagh</h4>
                                     <p class="card-text flash-fs-08">Harrison Wells</p>
-                                    <a href="#" class="card-link flash-bg-red flash-fw-100 btn btn-dark rounded">Read more!</a>
+                                    <a href="http://www.imdb.com/character/ch0477443/?ref_=tt_cl_t5" target="_blank" class="card-link flash-bg-red flash-fw-100 btn btn-dark rounded">Read more!</a>
                                 </div>
                             </div>
                         </div>
@@ -271,7 +271,7 @@
                                 <img class="card-img-top border border-dark" src="img/arrow.jpg" alt="Arrow">
                                 <div class="card-body text-white bg-transparent">
                                     <h4 class="card-title flash-fs-1">Arrow</h4>
-                                    <a href="http://www.imdb.com/title/tt2193021/?ref_=tt_rec_tti" class="card-link flash-bg-red flash-fw-100 btn btn-dark rounded">Read more!</a>
+                                    <a href="http://www.imdb.com/title/tt2193021/?ref_=tt_rec_tti" target="_blank" class="card-link flash-bg-red flash-fw-100 btn btn-dark rounded">Read more!</a>
                                 </div>
                             </div>
                         </div>
@@ -280,7 +280,7 @@
                                 <img class="card-img-top border border-dark" src="img/supergirl.jpg" alt="Supergirl">
                                 <div class="card-body text-white bg-transparent">
                                     <h4 class="card-title flash-fs-1">Supergirl</h4>
-                                    <a href="http://www.imdb.com/title/tt4016454/?ref_=tt_rec_tti" class="card-link flash-bg-red flash-fw-100 btn btn-dark rounded">Read more!</a>
+                                    <a href="http://www.imdb.com/title/tt4016454/?ref_=tt_rec_tti" target="_blank" class="card-link flash-bg-red flash-fw-100 btn btn-dark rounded">Read more!</a>
                                 </div>
                             </div>
                         </div>
@@ -289,7 +289,7 @@
                                 <img class="card-img-top border border-dark" src="img/legends.jpg" alt="Legends of Tomorrow">
                                 <div class="card-body text-white bg-transparent">
                                     <h4 class="card-title flash-fs-1">Legends of Tomorrow</h4>
-                                    <a href="http://www.imdb.com/title/tt4532368/?ref_=tt_rec_tti" class="card-link flash-bg-red flash-fw-100 btn btn-dark rounded">Read more!</a>
+                                    <a href="http://www.imdb.com/title/tt4532368/?ref_=tt_rec_tti" target="_blank" class="card-link flash-bg-red flash-fw-100 btn btn-dark rounded">Read more!</a>
                                 </div>
                             </div>
                         </div>
@@ -298,7 +298,7 @@
                                 <img class="card-img-top border border-dark" src="img/lightning.jpg" alt="Black Lightning">
                                 <div class="card-body text-white bg-transparent">
                                     <h4 class="card-title flash-fs-1">Black Lightning</h4>
-                                    <a href="http://www.imdb.com/title/tt6045840/?ref_=ttmi_tt" class="card-link flash-bg-red flash-fw-100 btn btn-dark rounded">Read more!</a>
+                                    <a href="http://www.imdb.com/title/tt6045840/?ref_=ttmi_tt" target="_blank" class="card-link flash-bg-red flash-fw-100 btn btn-dark rounded">Read more!</a>
                                 </div>
                             </div>
                         </div>
