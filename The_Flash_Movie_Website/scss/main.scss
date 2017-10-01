@@ -1,0 +1,156 @@
+
+// --------------- Variables
+
+$transparentblack7 : rgba(0,0,0,0.7);
+$transparentblack4 : rgba(0,0,0,0.4);
+$transparentblack05 : rgba(0,0,0,0.05);
+$flashred : rgba(138, 0, 5, 0.64);
+
+// --------------- Custom bootstrap classes with a prefix .flash-
+
+.flash-bg-black {
+    background-color: black !important;
+}
+
+.flash-bg-red {
+    background-color: $flashred !important;
+}
+
+.flash-border {
+    border-radius: 0;
+}
+
+.flash-border-color {
+    border-color: $flashred;
+}
+
+.flash-vh-100 {
+    height: 100vh;
+}
+
+.flash-transparent-black {
+    background: $transparentblack7 !important;
+    background: -webkit-linear-gradient($transparentblack7 0%, $transparentblack4 70%, $transparentblack05 100%) !important;
+    background: -o-linear-gradient($transparentblack7 0%, $transparentblack4 70%, $transparentblack05 100%) !important; 
+    background: -moz-linear-gradient($transparentblack7 0%, $transparentblack4 70%, $transparentblack05 100%) !important;
+    background: linear-gradient($transparentblack7 0%, $transparentblack4 70%, $transparentblack05 100%) !important;
+}
+
+.flash-plot-text {
+    background-color: $transparentblack7;
+}
+
+.flash-box-shadow {
+    box-shadow: 5px 5px 5px #000;
+}
+
+.flash-text-shadow {
+    text-shadow: 10px 10px 5px #000;
+}
+
+.flash-fs-08 {
+    font-size: 0.8em;
+}
+
+.flash-fs-09 {
+    font-size: .9em;
+}
+
+.flash-fs-1 {
+    font-size: 1em;
+}
+
+.flash-fs-11 {
+    font-size: 1.1em;
+}
+.flash-fs-12 {
+    font-size: 1.2em;
+}
+.flash-fs-13 {
+    font-size: 1.3em;
+}
+
+.flash-fw-100 {
+    font-weight: 100;
+}
+
+.flash-fw-400 {
+    font-weight: 400;
+}
+
+.flash-fw-700 {
+    font-weight: 700;
+}
+
+.flash-bg-gradient {
+    background: $flashred !important;
+    background: -webkit-linear-gradient(left, black 0%, $flashred 25%, black 50%) !important;
+    background: -o-linear-gradient(left, black 0%, $flashred 25%, black 50%) !important; 
+    background: -moz-linear-gradient(left, black 0%, $flashred 25%, black 50%) !important;
+    background: linear-gradient(left, black 0%, $flashred 25%, black 50%) !important;
+}
+
+// --------------- Own CSS styles
+
+body {
+    background-color: black;
+    font-family: 'Exo 2', sans-serif;    
+}
+
+// Hero styling
+
+#hero {
+    background: url('../img/hero-background-flash.jpg') center/cover;
+    border-bottom: 1px solid #fff;
+    box-sizing: border-box;
+    margin-top: -76px;
+}
+
+.closeX:hover {
+    color:white;
+}
+
+
+// Plot styling
+
+#plot {
+    background: url('../img/plot-background.png') center/cover;
+    border-bottom: 1px solid #fff;
+    box-sizing: border-box;
+}
+
+#plot img {
+    max-height: 450px;
+}
+
+.plot-window {
+    max-height: 450px;
+    overflow: scroll;
+}
+
+// Cast styling
+
+#cast {
+    border-bottom: 1px solid #fff;
+    box-sizing: border-box;
+}
+
+#cast h3 {
+    font-size: 1.3em;
+}
+
+#cast a {
+    font-size: 0.9em;
+}
+
+// Extra styling
+
+#extra {
+    box-sizing: border-box;
+}
+
+// Footer styling 
+
+#footer {
+    border-top: 1px solid #fff;
+}
