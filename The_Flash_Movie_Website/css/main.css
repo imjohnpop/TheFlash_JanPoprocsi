@@ -13,15 +13,6 @@
 .flash-vh-100 {
   height: 100vh; }
 
-.flash-vh-200 {
-  height: 200vh; }
-
-.flash-vh-200 {
-  height: 200vh; }
-
-.flash-vh-300 {
-  height: 300vh; }
-
 .flash-transparent-black {
   background: rgba(0, 0, 0, 0.7) !important;
   background: -webkit-linear-gradient(rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0.4) 70%, rgba(0, 0, 0, 0.05) 100%) !important;
@@ -36,7 +27,10 @@
   box-shadow: 5px 5px 5px #000; }
 
 .flash-text-shadow {
-  text-shadow: 10px 10px 5px #000; }
+  text-shadow: 5px 5px 5px #000; }
+
+.flash-fs-05 {
+  font-size: 0.5em; }
 
 .flash-fs-08 {
   font-size: 0.8em; }
@@ -82,6 +76,9 @@ body {
   box-sizing: border-box;
   margin-top: -76px; }
 
+.closeX:hover {
+  color: white; }
+
 #plot {
   background: url("../img/plot-background.png") center/cover;
   border-bottom: 1px solid #fff;
@@ -106,9 +103,6 @@ body {
 
 #extra {
   box-sizing: border-box; }
-
-#reviews {
-  margin-bottom: -58px; }
 
 #footer {
   border-top: 1px solid #fff; }

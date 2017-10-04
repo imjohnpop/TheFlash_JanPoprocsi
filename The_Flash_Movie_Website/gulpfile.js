@@ -1,6 +1,9 @@
 // load gulp
 var gulp = require('gulp');
 
+// load surge
+var surge = require('gulp-surge');
+
 // load sass
 var sass = require('gulp-sass');
 
@@ -20,3 +23,11 @@ gulp.task(
         gulp.watch('scss/**/*.scss', ['csscompile']); // watch for changes in scss and if they change, run 'csscompile' task
     }
 );
+
+// deployment to surge.sh
+gulp.task('deploy', function(){
+    return surge({
+        project: '/Users/janpoprocsi/web/codingbootcamp/projects/The_Flash_Movie_Website',
+        domain: 'https://theflash.surge.sh'
+    })
+});

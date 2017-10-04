@@ -1,9 +1,3 @@
-<!-- 
-    <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="" src="https://www.youtube.com/embed/Yj0l7iGKh8g" frameborder="0" allowfullscreen="allowfullscreen" data-link="https://www.youtube.com/watch?v=Yj0l7iGKh8g"></iframe>
-    </div>
--->
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -74,7 +68,7 @@
     <section id="plot">
         <div class="container pb-5">
             <div class="row pt-5">
-                <div class="col-lg-7 col-sm-6 col-12 pt-lg-5">
+                <div class="col-lg-7 col-md-6 col-12 pt-lg-5">
                     <div class="flash-plot-text row">
                         <div class="col-12">
                             <div class="row">
@@ -83,10 +77,10 @@
                                 </div>
                             </div>
                             <div class="row pt-1 pt-lg-3  pb-3 pb-lg-5">
-                                <div class="col flash-fs-11-12">   
+                                <div class="col-12 col-lg-6 flash-fs-11-12">   
                                     <p class="flash-fs-08 flash-fw-100 text-white"><strong class="text-uppercase">Genre:</strong> Action/Adventure, Drama, Sci-Fi/Fantasy</p>
                                 </div>
-                                <div class="col flash-fs-11-12">
+                                <div class="col-12 col-lg-6 flash-fs-11-12">
                                     <p class="flash-fs-08 flash-fw-100 text-white"><strong class="text-uppercase">Creators:</strong> Greg Berlanti, Geoff Johns, Andrew Kreisberg</p>
                                 </div>    
                             </div>
@@ -98,7 +92,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="d-flex justify-content-center col-lg-5 col-sm-6 col-12 pt-4 pt-lg-5">
+                <div class="d-flex justify-content-center col-lg-5 col-md-6 col-12 pt-4 pt-lg-5">
                     <img class="img-fluid" src="img/flash-poster.jpg" alt="The Flash Poster">
                 </div>
             </div>
@@ -309,10 +303,10 @@
     </section>
 
     <!-- FOOTER -->
-    <section id="footer" class="py-1 flash-fw-100 text-light d-flex justify-content-between">
-        <img src="img/flash-logo-2.png" alt="Footer Flash Logo">
-        <p class="flash-fs-13 pt-1"><span class="flash-fw-400">#</span>theflash<span class="flash-fw-400 text-uppercase">cw</span>series</p>
-        <p class="pt-2 pr-3">Designed by Ján Poprócsi</p>
+    <section id="footer" class="py-1 flash-fw-100 text-light d-flex text-center justify-content-between">
+        <img class="img-fluid" src="img/flash-logo-2.png" alt="Footer Flash Logo">
+        <p class="flash-fs-13 pt-1 mt-2"><span class="flash-fw-400">#</span>theflash<span class="flash-fw-400 text-uppercase">cw</span>series</p>
+        <p class="pt-2 pr-3 mt-2">&copy; Created by Ján Poprócsi</p>
     </section>
 
 
